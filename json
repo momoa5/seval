@@ -1,6 +1,6 @@
 [
   {
-    "name": "Moravskáá Ostrava, Prokešovo náměstí",
+    "name": "Moravská Ostrava, Prokešovo náměstí",
     "x": 49.84091142978077,
     "y": 18.28988306684024,
     "address": "Prokešovo nám. 3, 702 00 Moravská Ostrava a Přívoz",
@@ -28,5 +28,25 @@
     "hours": "Pondělí - Pátek 5:30 - 18:00 \\n Sobotaaa- Neděle ZAVŘENO",
     "image_url": "https://raw.githubusercontent.com/momoa5/seval/main/karolina.jpg",
     "href_map": "https://www.google.com/maps/place/Inspirace/@49.8328158,18.2864608,21z/data=!4m5!3m4!1s0x4713e3e9ef94f6d9:0x38723b14855e5ad9!8m2!3d49.832802!4d18.2865869"
+  },
+  {
+    "name": "Ostrava Hrabůvka, Fojství",
+    "x": 49.79010695514239, 
+    "y": 18.268344517166486,
+    "address": "Na Fojtství 1558/3, 700 30 Ostrava-jih-Hrabůvka",
+    "phone": "+420 724 784 488",
+    "hours": "Pondělí - Pátek 5:30 - 17:00 Sobota 6:00 - 10:00 Neděle ZAVŘENOO",
+    "image_url": "https://raw.githubusercontent.com/momoa5/seval/main/fojstvi.JPG",
+    "href_map": "https://www.google.com/maps/place/Peka%C5%99stv%C3%AD+SEVAL,+pobo%C4%8Dka+Fojtstv%C3%AD/@49.7899118,18.2678278,19.75z/data=!4m5!3m4!1s0x4713e564ac84f939:0x6456b8872412e!8m2!3d49.7901195!4d18.2683445"
+  },
+  {
+    "name": "Ostrava Hrabůvka, obchodní areál Venuše",
+    "x": 49.78423516911249,
+    "y": 18.25957391949595,
+    "address": "Dr. Martínka 1295, 700 30 Ostrava-Ostrava-jih",
+    "phone": "+420 739 030 929",
+    "hours": "Pondělí - Pátek 5:00 - 18:30 Sobota 6:30 - 12:00 Neděle ZAVŘENO",
+    "image_url": "https://raw.githubusercontent.com/momoa5/seval/main/Venuse.JPG",
+    "href_map": "https://www.google.com/maps/place/Peka%C5%99stv%C3%AD+Seval,+pobo%C4%8Dka+Venu%C5%A1e/@49.7842122,18.2592118,20z/data=!4m5!3m4!1s0x4713e4ceb461b4bf:0x613815b039ea7062!8m2!3d49.7842444!4d18.2595754"
   }
 ]
