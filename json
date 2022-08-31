@@ -6,15 +6,18 @@
     "address": "Prokešovo nám. 3, 702 00 Moravská Ostrava a Přívoz, Česko",
     "phone": "+420 725 090 593",
     "hours": "Pondělí - Čtvrtek: 6:00-16:00 \\n Pátek: 6:00-14:00 \\n Sobota - Neděle: ZAVŘENO",
-    "image_url": "https://raw.githubusercontent.com/momoa5/seval/main/prokesak.jpg"
+    "image_url": "https://raw.githubusercontent.com/momoa5/seval/main/prokesak.jpg",
+    "href_map": "https://www.google.com/maps/place/Proke%C5%A1ovo+n%C3%A1m.+3,+701+00+Moravsk%C3%A1+Ostrava+a+P%C5%99%C3%ADvoz/@49.8409356,18.2897725,17z/data=!3m1!4b1!4m5!3m4!1s0x4713e32598202353:0x45c17cecc4ba3a35!8m2!3d49.8409356!4d18.2897725"
   },
   {
-    "name": "ČS lEGIÍ, Prokešovo náměstí",
+    "name": "Moravská Ostrava, Čs. Legií",
     "x": 49.83696779005373, 
     "y": 18.290137192512898,
-    "address": "Prokešovo nám. 3, 702 00 Moravská Ostrava a Přívoz, Česko",
-    "phone": "+420 725 090 593",
-    "hours": "Pondělí - Čtvrtek: 6:00-16:00 \\n Pátek: 6:00-14:00 \\n Sobota - Neděle: ZAVŘENO",
-    "image_url": "https://raw.githubusercontent.com/momoa5/ALA/master/product_pictures/14.jpg"
+    "address": "Čs. legií 2820/3, 702 00 Moravská Ostrava a Přívoz, Česko",
+    "phone": "+420 724 784 490",
+    "hours": "Pondělí - Pátek 5:30 - 18:00 \n
+Sobota - Neděle ZAVŘENO",
+    "image_url": "https://raw.githubusercontent.com/momoa5/ALA/master/product_pictures/14.jpg",
+    "href_map": "https://www.google.com/maps/place/Seval+expres+-+peka%C5%99stv%C3%AD/@49.836755,18.289806,19.5z/data=!4m5!3m4!1s0x4713e3301a8c108b:0x3a4312380fd3945!8m2!3d49.8369778!4d18.2901293"
   }
 ]
