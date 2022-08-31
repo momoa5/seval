@@ -6,6 +6,15 @@
     "address": Prokešovo nám. 3, 702 00 Moravská Ostrava a Přívoz, Česko,
     "phone": "+420 725 090 593",
     "hours": "Pondělí - Čtvrtek: 6:00-16:00 \\n Pátek: 6:00-14:00 \\n Sobota - Neděle: ZAVŘENO",
-    "image_url": "https://raw.githubusercontent.com/momoa5/seval/main/prokesak.jpg",
+    "image_url": "https://raw.githubusercontent.com/momoa5/seval/main/prokesak.jpg"
+  },
+  {
+    "name": "Moravskáá Ostrava, Prokešovo náměstí",
+    "x": 49.84091142978077,
+    "y": 18.28988306684024,
+    "address": Prokešovo nám. 3, 702 00 Moravská Ostrava a Přívoz, Česko,
+    "phone": "+420 725 090 593",
+    "hours": "Pondělí - Čtvrtek: 6:00-16:00 \\n Pátek: 6:00-14:00 \\n Sobota - Neděle: ZAVŘENO",
+    "image_url": "https://raw.githubusercontent.com/momoa5/seval/main/prokesak.jpg"
   }
-  ]
+]
