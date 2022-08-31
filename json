@@ -21,11 +21,11 @@
   },
    {
     "name": "Moravská Ostrava, Karolina",
-    "x": 49.83279603491355, 18.286589042025373
+    "x": 49.83279603491355,
     "y": 18.286589042025373,
     "address": "28. října 68, 702 00 Moravská Ostrava a Přívoz",
     "phone": "+420 XXXXXX",
-    "hours": "Pondělí - Pátek 5:30 - 18:00 \\n Sobota - Neděle ZAVŘENO",
+    "hours": "Pondělí - Pátek 5:30 - 18:00 \\n Sobotaaa- Neděle ZAVŘENO",
     "image_url": "https://raw.githubusercontent.com/momoa5/seval/main/karolina.jpg",
     "href_map": "https://www.google.com/maps/place/Inspirace/@49.8328158,18.2864608,21z/data=!4m5!3m4!1s0x4713e3e9ef94f6d9:0x38723b14855e5ad9!8m2!3d49.832802!4d18.2865869"
   }
