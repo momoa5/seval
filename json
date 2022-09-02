@@ -48,5 +48,23 @@
     "hours": "Pondělí - Pátek 5:00 - 18:30 Sobota 6:30 - 12:00 Neděle ZAVŘENO",
     "image_url": "https://raw.githubusercontent.com/momoa5/seval/main/Venuse.JPG",
     "href_map": "https://www.google.com/maps/place/Peka%C5%99stv%C3%AD+Seval,+pobo%C4%8Dka+Venu%C5%A1e/@49.7842122,18.2592118,20z/data=!4m5!3m4!1s0x4713e4ceb461b4bf:0x613815b039ea7062!8m2!3d49.7842444!4d18.2595754"
+  },
+   "name": "Ostrava Zábřeh, obchodní areál Kotva",
+    "x": 49.78971398803129,
+    "y":  18.22693757559352,
+    "address": "Výškovická 2635/118A, 700 30 Ostrava-jih-Zábřeh",
+    "phone": "+420 724 784 485",
+    "hours": "Pondělí - Pátek 5:00 - 18:30 Sobota 6:30 - 12:00 Neděle ZAVŘENO",
+    "image_url": "https://raw.githubusercontent.com/momoa5/seval/main/Venuse.JPG",
+    "href_map": "https://www.google.com/maps/place/Peka%C5%99stv%C3%AD+Seval,+pobo%C4%8Dka+Kotva/@49.789663,18.227184,19.75z/data=!4m5!3m4!1s0x4713e56ba97ecba3:0xb8d2f3be866fde2e!8m2!3d49.7897032!4d18.2269387"
+  },
+   "name": "Ostrava - Poruba, 1. Čs. armádního sboru",
+    "x": 49.83648175554021,
+    "y":  18.18290368657782,
+    "address": "1. Čs. armádního sboru 6173/1A, 708 00 Ostrava-Poruba",
+    "phone": "+420 725 090 592",
+    "hours": "Pondělí - Pátek 5:00 - 18:30 Sobota 6:30 - 12:00 Neděle ZAVŘENO",
+    "image_url": "https://raw.githubusercontent.com/momoa5/seval/main/armadniho.JPG",
+    "href_map": "https://www.google.com/maps/place/Peka%C5%99stv%C3%AD+Seval,+pobo%C4%8Dka+Bohemia/@49.836509,18.1827796,20z/data=!4m5!3m4!1s0x4713e3c199ba1045:0x4e80563b75830e79!8m2!3d49.8364837!4d18.1828908"
   }
 ]
