@@ -68,5 +68,45 @@
     "hours": "Pondělí - Pátek 5:00 - 18:30 Sobota 6:30 - 12:00 Neděle ZAVŘENO",
     "image_url": "https://raw.githubusercontent.com/momoa5/seval/main/armadniho.JPG",
     "href_map": "https://www.google.com/maps/place/Peka%C5%99stv%C3%AD+Seval,+pobo%C4%8Dka+Bohemia/@49.836509,18.1827796,20z/data=!4m5!3m4!1s0x4713e3c199ba1045:0x4e80563b75830e79!8m2!3d49.8364837!4d18.1828908"
-  }
+  },
+  {
+   "name": "Ostrava - Poruba, Vozovna Poruba",
+    "x": 49.83246575783,
+    "y":  18.175229489892455,
+    "address": "Opavská 59, 708 00 Ostrava-Poruba",
+    "phone": "+420 724 784 482",
+    "hours": "Pondělí - Pátek 5:00 - 18:30 Sobota 6:30 - 12:00 Neděle ZAVŘENO",
+    "image_url": "https://raw.githubusercontent.com/momoa5/seval/main/vozovna.JPG",
+    "href_map": "https://www.google.com/maps/place/Peka%C5%99stv%C3%AD+Seval,+pobo%C4%8Dka+Bohemia/@49.836509,18.1827796,20z/data=!4m5!3m4!1s0x4713e3c199ba1045:0x4e80563b75830e79!8m2!3d49.8364837!4d18.1828908"
+  },
+  {
+   "name": "Ostrava - Poruba, Alšovo náměstí",
+    "x": 49.83041316577724,
+    "y": 18.169716423358928,
+    "address": "Alšovo nám. 3, 708 00 Ostrava-Poruba",
+    "phone": "+420 724 784 486",
+    "hours": "Pondělí - Pátek 5:00 - 18:30 Sobota 6:30 - 12:00 Neděle ZAVŘENO",
+    "image_url": "https://raw.githubusercontent.com/momoa5/seval/main/alsak.JPG",
+    "href_map": "https://www.google.com/maps/place/Peka%C5%99stv%C3%AD+Seval,+pobo%C4%8Dka+Al%C5%A1ovo+n%C3%A1m%C4%9Bst%C3%AD/@49.8303327,18.1696392,20.21z/data=!4m5!3m4!1s0x4713e1603c9a75e5:0x5f9af7173b597ce8!8m2!3d49.830398!4d18.1697182"
+  },
+    {
+   "name": "Ostrava - Poruba, vestibul FNO",
+    "x": 49.8279701776657,
+    "y": 18.161249668395175,
+    "address": "17. listopadu 1790/5, 708 00 Ostrava-Poruba",
+    "phone": "+420 724 784 489",
+    "hours": "Pondělí - Pátek 5:00 - 18:30 Sobota 6:30 - 12:00 Neděle ZAVŘENO",
+    "image_url": "https://raw.githubusercontent.com/momoa5/seval/main/alsak.JPG",
+    "href_map": "https://www.google.com/maps/place/Peka%C5%99stv%C3%AD+Seval,+pobo%C4%8Dka+Al%C5%A1ovo+n%C3%A1m%C4%9Bst%C3%AD/@49.8303327,18.1696392,20.21z/data=!4m5!3m4!1s0x4713e1603c9a75e5:0x5f9af7173b597ce8!8m2!3d49.830398!4d18.1697182"
+  },
+    {
+   "name": "Ostrava - Poruba, ulice 17. listopadu",
+    "x": 49.82687556430151,
+    "y":  18.16210337263372,
+    "address": "20, 17. listopadu 642, 708 00 Ostrava-Poruba",
+    "phone": "+420 724 784 484",
+    "hours": "Pondělí - Pátek 5:00 - 18:30 Sobota 6:30 - 12:00 Neděle ZAVŘENO",
+    "image_url": "https://raw.githubusercontent.com/momoa5/seval/main/17.lis.JPG",
+    "href_map": "https://www.google.com/maps/place/Peka%C5%99stv%C3%AD+Seval,+pobo%C4%8Dka+17.+Listopadu/@49.8277584,18.1612971,18.46z/data=!3m1!5s0x4713e6acb5df6343:0xf62c879317924068!4m5!3m4!1s0x0:0xa2f8de5cb26fcc0!8m2!3d49.8268234!4d18.1621137"
+  },
 ]
